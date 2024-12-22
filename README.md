@@ -1,2 +1,2 @@
 # exercicios-codewars
-Repositório dos exercícios resolvidos no CodeWars.
+Repositório dos exercícios resolvidos no CodeWars...
